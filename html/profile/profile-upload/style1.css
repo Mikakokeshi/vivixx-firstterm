@@ -1,0 +1,36 @@
+
+html {
+  margin: 0;
+  padding: 0;
+}
+
+#profile {
+  line-height: 1.88889;
+  color: white;
+  background-color: #333333;
+}
+
+.first h1 {
+  padding-top: 230px;
+  font-size: 80px;
+  color: #828282;
+  text-align: center;
+  font-family: 'Playfair Display SC', serif;
+  letter-spacing: 12px;
+}
+
+.first h2,a {
+  font-size: 22px;
+  color: #828282;
+  text-align: center;
+  font-family: 'Playfair Display SC', serif;
+  letter-spacing: 5px;
+	text-decoration: none;
+	font-size: 27px;
+}
+
+.icon{
+	position: absolute;
+	top:38%;
+	right:10%;
+}
